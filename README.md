@@ -44,7 +44,7 @@ Please feel free to submit issues or pull requests if you have suggestions for i
 
 ## Citation
 
-If you use these models in your research, please cite our work. 
+If you use these models in your research, please cite our work. [https://github.com/SobiaatNUST/IEEE-9bus-MVL_BVL_Models](https://github.com/SobiaatNUST/IEEE-9bus-MVL_BVL_Models)
 
 
 ## License
