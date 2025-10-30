@@ -1,8 +1,0 @@
-Pmax=? [ F ("L4_Isol") ];
-Pmax=? [ F ("L4_Fail") ];
-Pmax=? [ F ("L4_Risk") ];
-Pmax=? [ F ("L4_False_Trip") ];
-Pmax=? [ F ("L4_Isol"&("L4_False_Trip")) ];
-Pmax=? [ F ("L4_Fail"&("L4_False_Trip")) ];
-Pmax=? [ F ("L4_Risk"&("L4_False_Trip")) ];
-Pmax=? [ F ("L4_Risk"&("L4_Fail")) ]
