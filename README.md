@@ -1,2 +1,3 @@
 # IEEE-9bus-MVL_BVL_Models
 Formal models (MVL/BVL) of the IEEE-9-bus protection network with Storm verification pipelines and reproducibility instructions.
+IEEE-9bus-MVL_BVL_Models provides MVL- and BVL-based PRISM models of the IEEE 9-bus protection system (digital relays, breakers, communication, control), embedded with an auxiliary protection algorithm. The repository includes Storm model-checker scripts and step-by-step instructions to reproduce verification and analysis results (state/transition counts, run times, and property outcomes). All experiments are versioned for replicability (tagged releases) and designed to be run on a standard Linux environment.
