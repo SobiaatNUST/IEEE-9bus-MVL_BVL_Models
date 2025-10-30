@@ -1,0 +1,8 @@
+Pmax=? [ F ("L2_Isol") ];
+Pmax=? [ F ("L2_Fail") ];
+Pmax=? [ F ("L2_Risk") ];
+Pmax=? [ F ("L2_False_Trip") ];
+Pmax=? [ F ("L2_Isol"&("L2_False_Trip")) ];
+Pmax=? [ F ("L2_Fail"&("L2_False_Trip")) ];
+Pmax=? [ F ("L2_Risk"&("L2_False_Trip")) ];
+Pmax=? [ F ("L2_Risk"&("L2_Fail")) ]
